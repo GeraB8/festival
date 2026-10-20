@@ -1,0 +1,84 @@
+body {
+    background-color: rgb(215, 203, 222);
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+header {
+    background-image: url("https://img.magnific.com/free-vector/3d-confetti-popper-birthday-party-background_107791-28597.jpg?semt=ais_hybrid&w=740&q=80");
+    background-size: cover;
+    background-position: center;
+    color: white;
+    text-align: center;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+nav {
+    background-color: rgb(35, 20, 75);
+    padding: 15px;
+    border-radius: 25px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 15px;
+    font-size: 18px;
+}
+
+nav a:hover {
+    color: violet;
+}
+
+h2 {
+    text-align: center;
+    color: rgb(42, 34, 58);
+    font-style: italic;
+}
+
+body > div {
+    background-color: rgb(232, 223, 240);
+    padding: 15px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+ul {
+    background-color: rgb(232, 223, 240);
+    padding: 30px 50px;
+    border-radius: 10px;
+    text-align:center ;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: rgb(232, 223, 240);
+    margin: 20px 0;
+}
+
+
+th {
+    border: 1px solid rgb(100, 75, 130);
+    padding: 12px;
+    text-align: center;
+    background-color: rgb(55, 35, 90);
+    color: white;
+}
+
+td {
+    border: 1px solid rgb(100, 75, 130);
+    padding: 12px;
+    text-align: center;
+    color: rgb(42, 34, 58);
+}
+
+footer {
+    background-color: rgb(35, 20, 75);
+    color: white;
+    text-align: center;
+    padding: 10px;
+    border-radius: 20px;
+}
